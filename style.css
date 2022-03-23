@@ -1,0 +1,32 @@
+h1{
+ background-color: black;
+ width: 100%;
+ color: #fff;
+ margin-left: 10px;
+ padding-left: 10px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size: 3rem;
+}
+span{
+ color:aqua;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.purple{
+ background-color: blueviolet;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size: 2rem;
+ text-align: center;
+ color:#fff;
+ margin-left: 10px;
+ padding-left: 10px;
+}
+.lightBlue h3{
+ background-color: lightblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size: 2rem;
+ text-align: end;
+ text-decoration: underline;
+ color:#2F2760;
+ margin-left: 10px;
+ padding: 10px;
+}
